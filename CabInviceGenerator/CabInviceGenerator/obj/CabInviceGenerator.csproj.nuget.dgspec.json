@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Chetan Choudhari\\source\\repos\\CabInviceGenerator\\CabInviceGenerator\\CabInviceGenerator.csproj": {}
+    "E:\\BridgeLabz\\Cab Service\\CabInviceGenerator\\CabInviceGenerator\\CabInviceGenerator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Chetan Choudhari\\source\\repos\\CabInviceGenerator\\CabInviceGenerator\\CabInviceGenerator.csproj": {
+    "E:\\BridgeLabz\\Cab Service\\CabInviceGenerator\\CabInviceGenerator\\CabInviceGenerator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Chetan Choudhari\\source\\repos\\CabInviceGenerator\\CabInviceGenerator\\CabInviceGenerator.csproj",
+        "projectUniqueName": "E:\\BridgeLabz\\Cab Service\\CabInviceGenerator\\CabInviceGenerator\\CabInviceGenerator.csproj",
         "projectName": "CabInviceGenerator",
-        "projectPath": "C:\\Users\\Chetan Choudhari\\source\\repos\\CabInviceGenerator\\CabInviceGenerator\\CabInviceGenerator.csproj",
+        "projectPath": "E:\\BridgeLabz\\Cab Service\\CabInviceGenerator\\CabInviceGenerator\\CabInviceGenerator.csproj",
         "packagesPath": "C:\\Users\\Chetan Choudhari\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Chetan Choudhari\\source\\repos\\CabInviceGenerator\\CabInviceGenerator\\obj\\",
+        "outputPath": "E:\\BridgeLabz\\Cab Service\\CabInviceGenerator\\CabInviceGenerator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -31,8 +31,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Chetan Choudhari\\source\\repos\\CabInviceGenerator\\InviceGenaratorImpl\\InviceGenaratorImpl.csproj": {
-                "projectPath": "C:\\Users\\Chetan Choudhari\\source\\repos\\CabInviceGenerator\\InviceGenaratorImpl\\InviceGenaratorImpl.csproj"
+              "E:\\BridgeLabz\\Cab Service\\CabInviceGenerator\\InviceGenaratorImpl\\InviceGenaratorImpl.csproj": {
+                "projectPath": "E:\\BridgeLabz\\Cab Service\\CabInviceGenerator\\InviceGenaratorImpl\\InviceGenaratorImpl.csproj"
               }
             }
           }
@@ -78,14 +78,14 @@
         }
       }
     },
-    "C:\\Users\\Chetan Choudhari\\source\\repos\\CabInviceGenerator\\InviceGenaratorImpl\\InviceGenaratorImpl.csproj": {
+    "E:\\BridgeLabz\\Cab Service\\CabInviceGenerator\\InviceGenaratorImpl\\InviceGenaratorImpl.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Chetan Choudhari\\source\\repos\\CabInviceGenerator\\InviceGenaratorImpl\\InviceGenaratorImpl.csproj",
+        "projectUniqueName": "E:\\BridgeLabz\\Cab Service\\CabInviceGenerator\\InviceGenaratorImpl\\InviceGenaratorImpl.csproj",
         "projectName": "InviceGenaratorImpl",
-        "projectPath": "C:\\Users\\Chetan Choudhari\\source\\repos\\CabInviceGenerator\\InviceGenaratorImpl\\InviceGenaratorImpl.csproj",
+        "projectPath": "E:\\BridgeLabz\\Cab Service\\CabInviceGenerator\\InviceGenaratorImpl\\InviceGenaratorImpl.csproj",
         "packagesPath": "C:\\Users\\Chetan Choudhari\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Chetan Choudhari\\source\\repos\\CabInviceGenerator\\InviceGenaratorImpl\\obj\\",
+        "outputPath": "E:\\BridgeLabz\\Cab Service\\CabInviceGenerator\\InviceGenaratorImpl\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -26,5 +26,14 @@ namespace InviceGenaratorImpl
                 return 5.0;
             }
         }
+        public static double GenerateMonthlyFare(List<CabRidesProperties> data)
+        {
+            double totalCost = 0;
+            foreach (var item in data)
+            {
+                totalCost = totalCost + GenerateFare(item.Kms, item.TimeInMinutes);
+            }
+            return totalCost;
+        }
     }
 }
