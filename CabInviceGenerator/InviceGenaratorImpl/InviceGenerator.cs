@@ -96,7 +96,7 @@ namespace InviceGenaratorImpl
             foreach (var item in totalData)
             {
                 int count = 0;
-                double totalCost = 0;
+                //double totalCost = 0;
                 if (item.Key == id)
                 {
                     foreach (var item1 in item.Value)

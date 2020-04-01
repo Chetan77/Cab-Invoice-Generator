@@ -105,13 +105,10 @@ namespace CabInviceGenerator
             keyValuePairs.Add(1, list1);
             keyValuePairs.Add(2, list2);
             keyValuePairs.Add(3, list3);
-            List<CabRidesProperties> values = InviceGenerator.GetRideHistoryByUserID(keyValuePairs, 2);
-            foreach (var item in values)
-            {
-                Assert.NotZero(item.Kms);
-                Assert.NotZero(item.TimeInMinutes);
-            }
+            List<CabRidesProperties> values = InviceGenerator.GetRideHistoryByUserID(keyValuePairs, 3);
+            Assert.NotZero(values.Capacity);
         }
+
         /// <summary>
         /// Selects the category find the fare.
         /// </summary>
